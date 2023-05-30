@@ -46,7 +46,7 @@ The repository also includes implementations of various algorithms, such as:
 2. Searching algorithms (e.g., Linear Search, Binary Search)
 3. Graph algorithms (e.g., Depth-First Search, Breadth-First Search, Dijkstra's Algorithm)
 4. Dynamic programming algorithms (e.g., Knapsack Problem, Longest Common Subsequence)
-5. 
+
 Similar to the data structures, the algorithms are organized into their respective directories and include explanation 
 files detailing their time and space complexity, as well as example usage.
 
