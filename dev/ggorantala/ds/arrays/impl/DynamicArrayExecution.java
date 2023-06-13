@@ -8,8 +8,6 @@ package dev.ggorantala.ds.arrays.impl;
  * Date: 23/05/23
  */
 
-import dev.ggorantala.ds.arrays.impl.Array;
-
 public class DynamicArrayExecution {
     private static final int[] INPUT = new int[] {1, 2, 3, 4, 5, 6, 7, 11, 9};
 
